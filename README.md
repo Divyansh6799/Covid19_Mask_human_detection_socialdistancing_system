@@ -93,4 +93,4 @@ Set all downloaded files to their respective folders/path as given in Folder Str
 [linkedin-url]: https://www.linkedin.com/in/divyansh-trivedi-1551581bb/
 [issue-image]: https://img.shields.io/badge/Any%20Issues%3F-Track%20Issue-red
 [issue-url]: https://github.com/Divyansh6799/Covid19_Mask_human_detection_socialdistancing_system/issues
-:point_right::point_right::point_right: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Shantanu%20-Gupta-orange?style=for-the-badge&logo=Coder)]:point_left::point_left::point_left:
+:point_right::point_right::point_right: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Divyansh%20-Trivedi-orange?style=for-the-badge&logo=Coder)]:point_left::point_left::point_left:
